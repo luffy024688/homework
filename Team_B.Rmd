@@ -1,5 +1,7 @@
 ---
-title: 第Ｘ組"
+title: "Team_B"
+author: "ttt"
+date: "2016年12月21日"
 output: ioslides_presentation
 ---
 
@@ -30,7 +32,4 @@ summary(cars)
 ```{r pressure}
 plot(pressure)
 ```
-
-
-
 
